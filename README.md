@@ -11,4 +11,5 @@ Required: User can see tip and total bill amounts
 Notes:
 Spent some time adding placeholder text to the bill amount. Also added images for the app icon, launch, and background screens.
 
-https://github.com/bananarunt/GratuityTest/blob/master/Gratuity.gif
+![My image](https://github.com/bananarunt/GratuityTest/blob/master/Gratuity.gif)
+
